@@ -16,7 +16,7 @@ public class Question {
 
     public Question() {
         this.quest = "";
-        this.answer = this.choiceList.get(0);
+        this.answer = "";
         this.questionID = 0;
         this.pointValue = 0;
     }
